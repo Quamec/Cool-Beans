@@ -1,0 +1,139 @@
+/* Global */
+body {
+    font-family: 'Asap Condensed', sans-serif;
+}
+
+/* Headings */
+
+
+h1, h2 {
+  font-size: 65px;
+}
+
+.landing {
+  background-image: url("../img/freshGlass.jpg");
+  height: 675px;
+  background-position: top;
+  position: relative;
+}
+
+#logo {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.2rem;
+  color: lightblue;
+}
+
+nav a {
+  color: #aaa;
+  font-family: 'Asap Condensed', sans-serif;
+  font-size: 20px;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #555a;
+}
+
+.navi a {
+  text-transform: uppercase;
+}
+
+
+
+.square {
+  height: 280px;
+  width: 50px;
+  background-color: darkorange;
+}
+
+.landing-text {
+  padding: 240px 5% 0;
+}
+
+#tagline {
+  position: absolute;
+  display: inline-block;
+  right: 10%;
+  font-size: 65px;
+  clear: both;
+}
+
+#catchphrase {
+  position: absolute;
+  width: 400px;
+}
+
+.logoicon {
+  position: absolute;
+  display: block;
+  background-color: skyblue;
+  opacity: .5;
+  right: 40px;
+  margin-top: 110px;
+  width: 170px;
+  height: 170px;
+  clear: both;
+}
+
+#main {
+  margin-top: 60px;
+}
+
+.canister {
+  padding: 40px 0px;
+}
+
+.chunk {
+  padding: 20px 0px;
+}
+
+.flashyWords {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+footer {
+  padding-top: 100px;
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Page: What */
+
+.whatBrews {
+  background-color: #F2F2F2;
+  font-family: 'Asap Condensed', sans-serif;
+  height: 675px;
+}
+
+.secondaryIntro {
+  padding-top: 90px;
+  text-align: center;
+}
+
+.secondaryIntro h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.4em;
+}
+
+.whatChunk {
+  padding: 40px 0;
+}
+
+.whatFlashyWords {
+  padding: 20px 80px;
+}
+
+.whatFlashyWords p {
+  font-size: 20px;
+}
+
+#whatFoot h4 {
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 120px;
+}
+
+/* Get Page */
